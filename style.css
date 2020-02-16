@@ -1,0 +1,30 @@
+/*Colors and fonts */
+body{
+	background-color: #FFFFFF;
+	color: #cfc6c0;
+	font-family: 'Lora', serif;
+	font-size: 17px;
+	font-weight: lighter;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+
+}
+h1 {
+	color: #ea5674
+	font-size: 32px;
+	font-weight: 900;
+}
+h2 {
+	color: #c1002e
+	font-size: 20px;
+	font-weight: 500;
+	font-weight: lighter;
+}
+a {
+	font-family: 'Roboto', sans-serif;
+	color: #6B72E1
+	font-size: 16px;
+	font-weight: 600;
+}
+
